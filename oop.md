@@ -1,4 +1,4 @@
-# Всё есть объект
+# Всё есть объектfffff
 
 ![Картинка](../images/oop/everything_is_object.jpg)
 
