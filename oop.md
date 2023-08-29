@@ -5,7 +5,7 @@
 **Функция type возвращает, к какому классу относится объект**
 
 ```py
-a = 5
+a = 555
 res = type(a) #class int
 a = "cat dog" 
 res = type(a) #class str
